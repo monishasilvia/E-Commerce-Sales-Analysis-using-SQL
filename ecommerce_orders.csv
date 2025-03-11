@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,product_id,category,price,quantity,total_amount,payment_method,status,country
+1001,C016,01-06-2024,P136,Clothing,149.97,2,299.94,Credit Card,Returned,USA
+1002,C016,10-08-2024,P164,Sports,723.93,3,2171.79,PayPal,Pending,Canada
+1003,C009,29-04-2024,P160,Clothing,175.92,3,527.76,Bank Transfer,Delivered,India
+1004,C024,17-12-2024,P192,Beauty,836.32,5,4181.6,PayPal,Returned,UK
+1005,C014,24-11-2024,P178,Beauty,894.34,3,2683.02,PayPal,Returned,India
+1006,C013,17-03-2024,P131,Sports,896.78,4,3587.12,PayPal,Canceled,India
+1007,C027,19-07-2024,P126,Sports,117.66,4,470.64,PayPal,Pending,UK
+1008,C028,28-04-2024,P124,Clothing,136.63,5,683.15,Credit Card,Pending,Germany
+1009,C017,25-02-2025,P175,Electronics,824.91,5,4124.55,Credit Card,Delivered,USA
+1010,C001,29-06-2024,P160,Electronics,570.81,4,2283.24,Debit Card,Canceled,UK
+1011,C007,19-05-2024,P161,Home Decor,196.92,4,787.68,Credit Card,Pending,Canada
+1012,C014,14-08-2024,P136,Beauty,104.36,4,417.44,Bank Transfer,Pending,Australia
+1013,C029,25-10-2024,P188,Beauty,93.84,4,375.36,Credit Card,Canceled,India
+1014,C017,30-12-2024,P154,Sports,863.25,1,863.25,Credit Card,Returned,USA
+1015,C016,18-06-2024,P119,Home Decor,310,2,620,Debit Card,Pending,India
+1016,C006,16-12-2024,P108,Sports,457.18,3,1371.54,Debit Card,Delivered,USA
+1017,C017,01-01-2025,P153,Sports,540.18,3,1620.54,Bank Transfer,Pending,USA
+1018,C012,11-08-2024,P126,Clothing,374.6,4,1498.4,PayPal,Pending,Germany
+1019,C012,26-10-2024,P199,Clothing,886.02,3,2658.06,Bank Transfer,Returned,India
+1020,C021,17-06-2024,P122,Books,716.59,2,1433.18,Bank Transfer,Returned,UK
+1021,C006,06-12-2024,P120,Electronics,409.65,3,1228.95,Credit Card,Canceled,Canada
+1022,C002,28-04-2024,P200,Beauty,763.48,5,3817.4,PayPal,Delivered,Canada
+1023,C023,09-06-2024,P179,Clothing,618.96,2,1237.92,Debit Card,Pending,UK
+1024,C020,09-01-2025,P106,Electronics,447.5,5,2237.5,PayPal,Delivered,UK
+1025,C030,02-09-2024,P194,Beauty,820.76,5,4103.8,Credit Card,Pending,Australia
+1026,C004,30-01-2025,P119,Beauty,975.79,3,2927.37,Debit Card,Returned,Australia
+1027,C024,29-10-2024,P109,Electronics,789.03,2,1578.06,Debit Card,Pending,USA
+1028,C004,15-01-2025,P115,Electronics,747.58,3,2242.74,PayPal,Pending,India
+1029,C020,12-11-2024,P189,Electronics,944.32,5,4721.6,Credit Card,Pending,Australia
+1030,C008,20-01-2025,P117,Home Decor,986.32,1,986.32,Credit Card,Canceled,Canada
+1031,C010,01-09-2024,P151,Beauty,332.46,1,332.46,Credit Card,Returned,India
+1032,C027,04-06-2024,P176,Beauty,950.85,3,2852.55,Credit Card,Pending,UK
+1033,C003,02-11-2024,P134,Home Decor,270.78,2,541.56,Debit Card,Returned,Canada
+1034,C021,12-10-2024,P177,Beauty,343.64,3,1030.92,PayPal,Returned,India
+1035,C025,07-05-2024,P134,Sports,343.92,4,1375.68,Debit Card,Pending,USA
+1036,C028,18-12-2024,P162,Home Decor,901.33,2,1802.66,Credit Card,Delivered,USA
+1037,C027,02-01-2025,P181,Beauty,271.25,2,542.5,PayPal,Canceled,UK
+1038,C009,08-02-2025,P166,Clothing,768.73,1,768.73,Debit Card,Returned,Germany
+1039,C003,04-06-2024,P198,Books,33.91,5,169.55,Bank Transfer,Canceled,Canada
+1040,C017,26-11-2024,P120,Beauty,649.62,5,3248.1,Bank Transfer,Canceled,Australia
+1041,C027,21-07-2024,P146,Clothing,456.46,5,2282.3,Credit Card,Delivered,UK
+1042,C015,08-08-2024,P106,Sports,663.5,1,663.5,PayPal,Canceled,Australia
+1043,C003,20-01-2025,P173,Beauty,550.22,5,2751.1,PayPal,Pending,USA
+1044,C026,08-06-2024,P167,Books,367.3,4,1469.2,Bank Transfer,Canceled,Australia
+1045,C002,06-10-2024,P183,Electronics,38.74,3,116.22,Credit Card,Returned,UK
+1046,C007,27-08-2024,P166,Home Decor,368.5,1,368.5,Credit Card,Delivered,Germany
+1047,C020,28-12-2024,P104,Books,518.6,5,2593,Credit Card,Delivered,Germany
+1048,C013,21-12-2024,P120,Home Decor,479.63,1,479.63,Bank Transfer,Returned,USA
+1049,C026,28-08-2024,P164,Electronics,522.79,5,2613.95,PayPal,Delivered,Australia
+1050,C020,09-07-2024,P134,Sports,45.27,5,226.35,PayPal,Canceled,Canada
+1051,C006,23-03-2024,P124,Books,407.66,2,815.32,Credit Card,Pending,Canada
+1052,C012,31-07-2024,P176,Home Decor,721.59,5,3607.95,Bank Transfer,Returned,India
+1053,C026,06-08-2024,P190,Electronics,104.46,1,104.46,Credit Card,Delivered,Australia
+1054,C011,23-03-2024,P142,Beauty,749.99,1,749.99,PayPal,Returned,USA
+1055,C010,31-07-2024,P140,Home Decor,623.6,3,1870.8,Debit Card,Pending,Canada
+1056,C027,28-10-2024,P158,Sports,536.26,4,2145.04,Credit Card,Pending,USA
+1057,C007,04-08-2024,P143,Beauty,698.25,3,2094.75,Credit Card,Delivered,UK
+1058,C003,17-03-2024,P185,Books,271.41,1,271.41,PayPal,Canceled,India
+1059,C026,29-06-2024,P169,Clothing,719.22,2,1438.44,PayPal,Pending,UK
+1060,C015,29-03-2024,P122,Electronics,958.19,4,3832.76,PayPal,Delivered,India
+1061,C028,10-10-2024,P174,Books,64.71,5,323.55,PayPal,Delivered,Australia
+1062,C005,28-12-2024,P109,Beauty,633.58,2,1267.16,Bank Transfer,Delivered,Germany
+1063,C004,20-02-2025,P180,Books,797.12,4,3188.48,Credit Card,Returned,Germany
+1064,C027,04-01-2025,P111,Home Decor,916.55,2,1833.1,Bank Transfer,Pending,UK
+1065,C004,05-07-2024,P108,Books,231.18,1,231.18,Bank Transfer,Canceled,USA
+1066,C006,28-08-2024,P110,Sports,461.05,1,461.05,Debit Card,Canceled,India
+1067,C026,16-10-2024,P111,Sports,330.32,2,660.64,Bank Transfer,Pending,UK
+1068,C012,05-01-2025,P125,Beauty,353.42,5,1767.1,Credit Card,Returned,Germany
+1069,C019,11-04-2024,P133,Sports,601.69,1,601.69,Debit Card,Pending,Canada
+1070,C026,20-04-2024,P177,Clothing,346.15,1,346.15,Credit Card,Delivered,Germany
+1071,C010,17-02-2025,P182,Beauty,462.36,1,462.36,Debit Card,Delivered,UK
+1072,C001,27-08-2024,P151,Sports,922.06,2,1844.12,Debit Card,Returned,Germany
+1073,C015,31-10-2024,P176,Electronics,540.06,4,2160.24,Debit Card,Delivered,India
+1074,C022,07-03-2024,P112,Books,411.2,1,411.2,Credit Card,Pending,Germany
+1075,C010,25-01-2025,P114,Electronics,459.14,3,1377.42,Bank Transfer,Delivered,Australia
+1076,C023,12-12-2024,P162,Clothing,537.54,5,2687.7,Credit Card,Pending,UK
+1077,C007,03-07-2024,P175,Books,480.96,2,961.92,PayPal,Pending,USA
+1078,C006,30-10-2024,P164,Home Decor,117.75,1,117.75,Debit Card,Delivered,Germany
+1079,C018,13-11-2024,P151,Clothing,745.65,4,2982.6,PayPal,Pending,India
+1080,C001,02-03-2025,P192,Sports,294.38,2,588.76,Debit Card,Delivered,Germany
+1081,C014,02-01-2025,P158,Electronics,854.64,3,2563.92,Debit Card,Canceled,USA
+1082,C018,19-10-2024,P158,Sports,762.54,4,3050.16,Credit Card,Returned,USA
+1083,C002,28-12-2024,P197,Books,741.64,2,1483.28,Debit Card,Pending,USA
+1084,C007,18-01-2025,P168,Home Decor,78.58,4,314.32,Bank Transfer,Pending,Germany
+1085,C018,02-01-2025,P104,Home Decor,55.33,3,165.99,Bank Transfer,Returned,India
+1086,C014,26-12-2024,P154,Electronics,919.42,5,4597.1,Debit Card,Delivered,UK
+1087,C001,16-06-2024,P163,Clothing,613.33,3,1839.99,Debit Card,Canceled,Canada
+1088,C016,11-11-2024,P145,Beauty,40.76,3,122.28,Debit Card,Canceled,USA
+1089,C018,27-07-2024,P153,Sports,380.38,3,1141.14,Bank Transfer,Returned,UK
+1090,C001,22-05-2024,P153,Electronics,926.07,1,926.07,Debit Card,Returned,Germany
+1091,C014,29-03-2024,P130,Books,60.44,5,302.2,Credit Card,Returned,UK
+1092,C008,21-12-2024,P149,Home Decor,404.81,3,1214.43,Bank Transfer,Returned,Australia
+1093,C022,28-08-2024,P191,Electronics,96.5,4,386,Debit Card,Canceled,Canada
+1094,C028,02-10-2024,P195,Beauty,360.2,3,1080.6,PayPal,Canceled,USA
+1095,C007,29-05-2024,P182,Beauty,732.42,1,732.42,Debit Card,Canceled,Canada
+1096,C012,17-01-2025,P122,Beauty,891.96,2,1783.92,Credit Card,Delivered,UK
+1097,C030,27-05-2024,P140,Home Decor,45.17,4,180.68,PayPal,Delivered,India
+1098,C023,12-12-2024,P199,Clothing,182.98,1,182.98,PayPal,Returned,Germany
+1099,C017,02-06-2024,P165,Beauty,362.7,3,1088.1,Bank Transfer,Delivered,UK
+1100,C005,08-04-2024,P113,Sports,148.27,2,296.54,Credit Card,Canceled,Canada
